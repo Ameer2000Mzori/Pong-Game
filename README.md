@@ -18,7 +18,7 @@
 
 # 📖 About This Project <a name="about-project"></a>
 
-> GitHub Profiles A website built with HTML, SCSS, and TypeScript, utilizing the GitHub API and Axios for seamless data retrieval. Linters are employed to maintain clean code. Explore the live demo to search for any GitHub user.
+> The "Pong-Game" website is created with HTML, SCSS, and TypeScript. Linters are utilized to overcome code errors and ensure clean code. The game is implemented using the canvas element. Feel free to check out the live demo for an interactive experience.
 
 # Sample Of Website <a name="Sample-Of-Website"></a>
 
